@@ -1,6 +1,10 @@
 # [GTag Opt In](https://www.npmjs.com/package/gtag-opt-in) &middot; [![Tests Status](https://github.com/luciomartinez/gtag-opt-in/workflows/Node.js%20CI/badge.svg)](https://github.com/luciomartinez/gtag-opt-in/actions)
 > Google Analytics Opt In
 
+> [!WARNING] 
+> I'm deprecating this package as it requires more time, than what I can give, to keep it up-to-date so that the dependencies remain secure.
+> My recommendation would be to read the source code and implement it in your website instead, as it should be easy enough yet secure.
+
 GTag Opt In is a browser library to opt-in in Google Analytics.
 Plus, it configures Analytics to [anonymize IP](https://support.google.com/analytics/answer/2763052).
 See _why_ and _when_ to use it by reading the [wiki](https://github.com/luciomartinez/gtag-opt-in/wiki) page. 
